@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://shso-abc.github.io"
+url: "http://localhost:4000"
 baseurl: ""
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://shso-abc.github.io/gallery/"  
-  - JOURNAL: "https://shso-abc.github.io/journal/"
-  - ABOUT: "https://shso-abc.github.io/about/"
+  - GALLERY: "http://localhost:4000/gallery/"  
+  - JOURNAL: "http://localhost:4000/journal/"
+  - ABOUT: "http://localhost:4000/about/"
 
 # All translation keys
 translations:
