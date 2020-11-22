@@ -1,24 +1,17 @@
 # Site settings
-title: PHOTORAMA
+title: SONSTORY
 email: ""
-description: "Photo Journal"
+description: "SON HISTORY"
 url: "https://shso-abc.github.io"
 baseurl: ""
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:  bb 
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: bb 
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -34,8 +27,6 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://shso-abc.github.io/gallery/"  
-  - JOURNAL: "https://shso-abc.github.io/journal/"
-  - ABOUT: "https://shso-abc.github.io/about/"
 
 # All translation keys
 translations:
