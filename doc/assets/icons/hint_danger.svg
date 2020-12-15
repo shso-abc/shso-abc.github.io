@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico/24/danger</title>
+    <g id="ㄴ-가이드센터" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="contents" transform="translate(-419.000000, -4571.000000)">
+            <g transform="translate(405.000000, 96.000000)" id="Group-2">
+                <g transform="translate(0.000000, 191.000000)">
+                    <g transform="translate(0.000000, 4157.000000)">
+                        <g id="danger" transform="translate(0.000000, 104.000000)">
+                            <g id="Group" transform="translate(12.000000, 20.000000)">
+                                <g transform="translate(3.000000, 4.000000)">
+                                    <polygon id="Triangle" stroke="#DC1919" stroke-width="1.2" stroke-linejoin="round" points="9 0 18 16 0 16"></polygon>
+                                    <path d="M9.75,9.5 L9.75,14 L8.25,14 L8.25,9.5 L9.75,9.5 Z M9.75,6.5 L9.75,8 L8.25,8 L8.25,6.5 L9.75,6.5 Z" id="Combined-Shape" fill="#DC1919" transform="translate(9.000000, 10.250000) rotate(-180.000000) translate(-9.000000, -10.250000) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

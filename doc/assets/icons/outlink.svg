@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/outlink</title>
+    <g id="ㄴ-가이드센터" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contents" transform="translate(-142.000000, -340.000000)">
+            <g id="hover" transform="translate(0.000000, 56.000000)">
+                <g id="Group" transform="translate(139.000000, 281.000000)">
+                    <g id="Group-14" transform="translate(3.000000, 3.000000)">
+                        <path d="M5,0.4 L5,1.6 L3,1.6 C2.27228362,1.6 1.6742479,2.15522888 1.60640881,2.86517066 L1.6,3 L1.6,11 C1.6,11.7731986 2.22680135,12.4 3,12.4 L3,12.4 L11,12.4 C11.7731986,12.4 12.4,11.7731986 12.4,11 L12.4,11 L12.4,9 L13.6,9 L13.6,11 C13.6,12.3807119 12.5237614,13.5100548 11.1644281,13.5948848 L11,13.6 L3,13.6 C1.56405965,13.6 0.4,12.4359403 0.4,11 L0.4,11 L0.4,3 C0.4,1.56405965 1.56405965,0.4 3,0.4 L3,0.4 L5,0.4 Z M13.6,0.4 L13.6,6 L12.4,6 L12.4,1.6 L8,1.6 L8,0.4 L13.6,0.4 Z" id="Combined-Shape" fill="#A0A0A0" fill-rule="nonzero"></path>
+                        <line x1="13" y1="1" x2="7.5" y2="6.5" id="Line" stroke="#A0A0A0" stroke-width="1.2"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
